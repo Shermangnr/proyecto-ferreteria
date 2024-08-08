@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FFFFFF;
+    background-image: url("../../assets/imagenes/back.svg");
+    position: relative; 
+    background-size: contain;
+    background-attachment: fixed;
+    width: 100%;
+    margin: 0;
+    padding: 0;        
+}
+main {
+    /* margin-left: 280px !important;     */
+    width: 80%;
+    margin: 0;
+    padding: 35px;  
+}
+
+.menu-hamburguesa{
+    position: fixed;
+    top: 10px;
+    left: 5px;
+    z-index: 99999;
+    transition: 0.5s ease-in-out;
+    transform: rotate(0deg);
+}
+
+.ampliar{
+    width: 5% !important;
+    transition: 0.2s ease-in-out;
+}
+
+.ampliar_2{
+    width: 95% !important;
+    transition: 0.2s ease-in-out;
+
+}
+
+.rotar {
+    
+    transform: rotate(180deg) !important;
+}
+
+
+.menu {
+    width: 20%;
+    height: 100vh;
+    position: sticky;
+    top: 0;
+}
+
+.menu2 {
+
+    height: 100%;
+    width: 100%;
+}
+
+.menu2 .row{
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+}
+#sidebar{
+    height: 100%;
+    width: 100%;
+    padding-top: 10px;
+    background-color: #0B0D21;
+    margin: 0;    
+    overflow: hidden;
+}
+
+/*Tamaño de la imagen */
+.img-login{
+    border-radius: 50% !important;
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    padding: 5px;
+    background: rgb(116,116,116);
+    background: linear-gradient(180deg, rgba(116,116,116,1) 0%, rgba(0,16,116,1) 76%);
+
+}
+
+.perfil-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px auto;
+    /* display: block; */
+    width: 150px;    
+}
+
+.ampliar #sidebar{
+    padding-top: 80px !important;
+    padding-right: 0px !important;
+}
+
+.ampliar .perfil-img{
+    width: 100%;
+}
+
+.ampliar .img-login{
+    width: 40px !important;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+.ampliar i{
+    font-size: 1.8rem !important;
+    margin-right: 20px !important;
+    margin-left: 10px !important;
+}
+
+
+.ampliar .nombre-logeado{
+    display: none !important;
+}
+
+.ampliar #sidebar ul li a{
+    padding: 0px !important;
+}
+.nombre-logeado {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 20px;
+}
+
+#sidebar ul li a{
+    color: rgba(133, 131, 131, 0.877);
+    white-space: nowrap;
+}
+
+#sidebar ul li a:hover{
+    color: rgb(252, 252, 255);
+}
+
+#sidebar ul li a:focus{
+    color: white;
+}
+
+#sidebar ul li a:hover i{
+    color: #0f3bff;
+}
+
+#sidebar ul li a:focus i{
+    color: #0f3bff;
+}
+#sidebar li{
+    margin-bottom: 5px;
+}
+
+.descripcion {
+    font-size: 1.5rem;
+    margin-top: 95px;
+}
+
+.typed {
+    text-decoration: underline 3px #1f75f7;    
+}
+
+.nav-link.active {
+    color: white !important;
+}
+
+.nav-link.active i {
+    color: #0f3bff !important;
+}
+
+
+
+

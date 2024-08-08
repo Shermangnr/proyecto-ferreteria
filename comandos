@@ -1,0 +1,921 @@
+tree
+tree
+ipconfig
+ping 206.186.207.208
+git tag
+git -a -m
+git -a Fase-2.1 -m
+git tag -a -m
+git tag -a Fase-2.1 -m
+git tag -a Fase-2.1 -m 'Publicando en QA y Pro'
+git tag -a Fase-2.1 -m "Publicando en QA y Pro"
+git remote
+git remote show
+git remote show origin
+git push --all
+git push --tags
+ipconfig
+telnet 192.168.4.157 22
+telnet 192.168.4.157
+telnet 192.168.4.157
+telnet
+ipconfig
+powercfg.exe /hibernate on
+powercfg.exe /hibernate on
+ping http://congresoccs.org.co/
+ping congresoccs.org.co
+git remote show origin
+git commit show
+git show commit
+git log
+git log --stat
+git log --pretty=oneline
+git log --pretty=format
+git push --all
+cur
+curl
+curl -v -X PUT -d "Texto"
+curl -v http://localhost:80/clients/jim
+git show commit
+git push --all
+sn
+svn
+svn help
+sn
+svn
+svn help
+svn info
+svn commit
+svn log
+svn
+git show commit
+git push --all
+svn checkout
+git push --all
+svn checkout
+svn
+svn log
+svn diff
+svn list
+svn log -r 2
+svn log -r 8
+svn diff
+svn list --verbose
+svn info
+git push --all
+node
+npm
+git push --all
+node
+node
+npm -v
+node
+npm
+npm
+node
+git push --all
+node
+git push --all
+npm install
+npm -v
+py
+py -v
+cls
+py -version
+py -h
+npm install
+npm install --global --production windows-build-tools
+py
+py -v
+py -version
+py -h
+npm install
+npm install --global --production windows-build-tools
+clink autorun show
+clink set -h
+py -h
+npm install --global --production windows-build-tools
+Clink h
+Clink --h
+Clink Verbs
+Clink
+Clink --help set
+Clink set --help
+clink autorun –help
+clink autorun –-help
+clink set history_io 1
+cd C:\servidorweb\htdocs\ccs-app
+npm install --save-dev gulp
+gulp --version
+grunt --version
+grun --version
+npm install -g bower
+bower --version
+jarsigner
+run android
+npm run ndroid
+npm run
+jarsigner -v
+jarsigner -h
+cordov
+zipalign
+node --version
+ping 142.93.0.136
+ping 142.93.0.136:3306
+telnet 142.93.0.136 3306
+cordova run
+ionic cordova build --release android
+gulp
+ionic cordova platform
+cordova platform
+cordova platform list
+cordova platform help
+cordova help
+cordova -d
+npm version
+cordova platform version android
+cordova info
+cordova config ls
+cordova requirements android
+gulp --cordova
+cordova --version
+cordova platform add android@6.3.0
+bower
+cordova prepare --verbose
+npm uninstall -g cordova
+npm i -g cordova@6.5.0
+gulp run
+gulp start
+npm i yo
+gulp karma
+git tag -a V-2.0 -m "Inicio App V2 congreso 52"
+npm prune
+npm i -g yo
+gulp --cordova "platform ls"
+gulp --cordova "prepare"
+bower prepare
+bower prepare home
+bower home
+gulp cordova
+npm install --global gulp-cli
+cordova platform add android@6.2.0
+cordova install
+gulp --release
+cordova prepare
+npm run
+gulp –version
+gulp –v
+npm run build
+npm run watch:build
+gulp --cordova "platform add android --save"
+gulp --cordova 'build android --release' --no-build --res=set2
+gulp --cordova "platform add ios --save"
+cordova serve
+npm run watch:build -- --env=prod --no-open
+gulp --cordova 'run android'
+echo %JAVA_HOME%
+cordova plugin add cordova-android-support-gradle-release --variable
+cordova plugin add cordova-android-support-gradle-release  --variable ANDROID_SUPPORT_VERSION=27.+
+cordova plugin add cordova-android-support-gradle-release
+cordova plugin add cordova-android-support-gradle-release --variable ANDROID_SUPPORT_VERSION=25.+
+cordova plugin add cordova-android-support-gradle-release --variable ANDROID_SUPPORT_VERSION=26.+
+cordova run android --stacktrace
+cordova compile
+cordova
+cordova create ccsapp
+cordova platform add ios  --save-dev
+cordova platforms ls
+cordova platform add browser  --save
+cordova build
+cordova build --release android
+cordova emulate android
+hostne
+adb -h
+adb start
+node -v
+cordov -v
+cordova build androi
+yo doctor
+git --version
+node --version && npm --version
+yo
+cd ccsapp\
+npm install --global gulp
+?
+npm run:android
+npm watch
+npm build
+npm run run:android
+gulp --cordova android
+gulp --cordova run android
+npm run android
+gulp styles
+ng set defaults.spec.js false
+yo -v
+yo m-ionic:component user --spec=false
+yo firebase-angular-node
+npm install generator-firebase-angular-node
+npm install --save-dev prettier
+bower i angular --save
+bower i angular-animate --save
+bower i angular-sanitize --save
+bower i angular-ui-router --save
+bower i ngCordova --save
+git pull
+bower i angular-dynamic-locale --save
+bower i angular-translate-loader-static-files --save
+bower i angular-translate --save
+xcopy /E /I /C "C:\servidorweb\htdocs\ccsapp - copia\ C:\servidorweb\htdocs\ccsapp-1
+xcopy /E /I /C "C:\servidorweb\htdocs\ccsapp - copia" C:\servidorweb\htdocs\ccsapp-1
+xcopy /E /I /C "C:\servidorweb\htdocs\ccsapp - copia" C:\servidorweb\htdocs\ccsapp-o
+rm /S /Q "C:\servidorweb\htdocs\ccsapp - copia"
+rd /s /q "C:\servidorweb\htdocs\ccsapp - copia"
+xcopy /E /I /C "C:\servidorweb\htdocs\ccsapp" C:\servidorweb\htdocs\ccsapp-o
+gulp sass watch
+ionic setup sass
+bower i ionic --save
+bower i ionic#1.3.0 --save
+bower i ionic#1.3.5 --save
+bower i driftyco/ionic-bower#master --save
+bower i driftyco/ionic-bower#1.3.5 --save
+bower i firebase --save
+bower rm firebase
+bower i firebase#~3.4.0 --save
+gulp build -o
+bower i angular-filter --save
+bower i angular-leaflet-directive --save
+bower i angularfire --save
+bower i angular-qr --save
+bower i angular-elastic  --save
+bower i ng-cordova-oauth  --save
+bower i moment  --save
+bower i angular-youtube-mb  --save
+bower i ng-twitter-api  --save
+bower i angular-mocks  --save-dev
+bower -v
+npm i cordova@6.5.0
+npm i --save-dev
+npm install gulp@3.9.1 --save-dev
+npm i natives
+rm -rf package-lock.json
+bower i angular-animate
+gulp watch --open:false
+gulp build.prod
+gulp build --aot=false --build-optimizer=false
+gulp watch --open
+gulp watch-build
+npm install -g ionic
+ionic
+ionic start
+ionic start --type=ionic-angular
+cd .\app-ccs
+cordova run browser
+cordova platform
+cordova-plugin-app-event
+cordova platform rm browser
+Clink --help
+ps aux | grep node
+ps aux | awk '/node/{print $2}' | xargs kill -9
+ps -e
+npm install --global bower
+npm install --global yo
+npm install --global generator-m-ionic
+cd C:\servidorweb\htdocs\ccsapp-o
+cordova build android
+gulp build --no-open --env=prod
+gulp build  --env=dev
+gulp watch
+gulp build --minify && gulp karma
+gulp build --minify
+cd c:\servidorweb\htdocs\
+cd splashapp\
+npm install cordova-res-generator -g
+cd C:\Users\fgrandasa\AppData\Local\Android\Sdk\tools\bin && sdkmanager --licenses
+cordova platform add android --save
+bower install
+cordova plugin version | grep phonegap-plugin-push
+cd C:\servidorweb\htdocs\splashapp && cordova-res-generator -p android,ios
+cd C:\servidorweb\htdocs\splashapp && cordova-res-generator -p android,ios -I false
+cd C:\servidorweb\htdocs\splashapp && cordova-res-generator -p android,ios -S false
+cd C:\servidorweb\htdocs\splashapp && cordova-res-generator -p android,ios -S true
+cd C:\servidorweb\htdocs\splashapp && cordova-res-generator -p android,ios -S true -I true
+cd C:\servidorweb\htdocs\ccsapp
+rd /s /q "C:\servidorweb\htdocs\ccsapp-o"
+xcopy /E /I /C C:\servidorweb\htdocs\ccsapp-o C:\servidorweb\htdocs\ccsapp
+cordova platform rm ios
+cordova platform add ios
+cordova run ios --env=prod
+C:\Users\fgrandasa\AppData\Local\Android\Sdk\platform-tools\adb logcat
+cordova push
+C:\Users\fgrandasa\AppData\Local\Android\Sdk\platform-tools\adb devices
+SHUTDOWN /P /F
+phonegap push
+adb kill-server
+adb start-server
+adb logcat -G 20M
+cordova plugin add cordova-plugin-badge
+cordova plugin add cordova-plugin-local-notification
+adb logcat | grep "CONSOLE"
+cordova plugin add cordova-plugin-x-socialsharing
+wmic get bios serialnumber
+wmic bios get serialnumber
+bower i localforage --save
+npm install localForage --save
+bower i localforage@~1.4.0 --save
+git show :application/controllers/Registro.php
+git status
+cordova build android --release
+git commit
+C:\Users\fgrandasa\AppData\Local\Android\Sdk\platform-tools\adb logcat | grep -i "console"
+_obj.event = val.event.name;
+ipconfig
+yo m-ionic:pair phone
+yo m-ionic
+yo m-ionic:component encuesta --spec=false
+yo m-ionic:pair /encuesta
+yo m-ionic:pair /encuesta/
+yo m-ionic:pair ./encuesta
+nslookup qaccs
+---------------------------------------------------------------------------
+keytool -genkeypair -v -keystore my-upload-key.keystore -alias my-key-alias -keyalg RSA -keysize 2048 -validity 10000
+cordova plugin list
+ionic cordova build
+npm install cordova@8.1.1
+npm install -g cordova@8.1.1
+cordova build android --env=prod
+cordova plugin rm cordova-android-play-services-gradle-release 1.4.6
+cordova plugin rm cordova-android-play-services-gradle-release
+cordova plugin rm cordova-android-support-gradle-release
+cordova plugin rm cordova-android-play-services-gradle-release --nosave
+cordova plugin rm cordova-android-play-services-gradle-release --nosave --force
+cordova platform remove browser
+cordova plugin rm cordova-android-play-services-gradle-release  --force
+cordova plugin rm cordova-android-support-gradle-release --nosave
+cordova plugin rm cordova-android-support-gradle-release --force
+cordova clean
+cordova platform remove android
+gulp clean
+gulp cordova-with-build
+npm install gulp-sass --save-dev
+ionic --version
+npm uninstall cordova
+npm i cordova@6.3.0 --save-dev
+cordova build android --release --env=prod
+cordova -v
+xcopy /E /I /C C:\servidorweb\htdocs\ccsapp-o C:\servidorweb\htdocs\ccsapp-estable
+apksigner sign --ks "C:\servidorweb\htdocs\ccsapp-o\ccsapp.jks" --ks-key-alias appccs --out "C:\Users\fgrandasa\AppData\Local\Android\Sdk\build-tools\app.apk" "C:\servidorweb\htdocs\ccsapp-o\platforms\android\app\build\outputs\apk\release\app-alined.apk"
+cordova run android
+devices
+zipalign -v -p 4 C:\servidorweb\htdocs\ccsapp-o\platforms\android\app\build\outputs\apk\release\app-release-unsigned.apk C:\servidorweb\htdocs\ccsapp-o\platforms\android\app\build\outputs\apk\release\app-alined.apk
+apksigner sign --ks "C:\servidorweb\htdocs\ccsapp-o\ccsapp.jks" --ks-key-alias appccs --out "C:\servidorweb\htdocs\ccsapp-o\platforms\android\app\build\outputs\apk\release\app.apk" "C:\servidorweb\htdocs\ccsapp-o\platforms\android\app\build\outputs\apk\release\app-alined.apk"
+apksigner verify  ../app.apk
+adb install app.apk
+---------------------------------------------------------------------------
+gradle -v
+gulp -v
+cordova platform add browser
+cordova prepare browser
+cordova platform add android
+cordova platform rm android
+gulp build-app  --env=prod
+cordova i cordova-plugin-dialogs@2.0.1 --save
+---------------------------------------------------------------------------
+adb install -r app-release-unsigned.apk
+adb install app-release-unsigned.apk
+netsh wlan show interfaces
+apksigner verify C:\servidorweb\htdocs\app\platforms\android\app\build\outputs\apk\release\app.apk
+cd C:\Users\fgrandasa\AppData\Local\Android\Sdk\platform-tools
+cordova build android --release
+cd C:\Users\fgrandasa\AppData\Local\Android\Sdk\build-tools\29.0.0
+zipalign -v -p 4 C:\servidorweb\htdocs\app\platforms\android\app\build\outputs\apk\release\app-release-unsigned.apk C:\servidorweb\htdocs\app\platforms\android\app\build\outputs\apk\release\app-alined.apk
+apksigner sign --ks "C:\servidorweb\htdocs\app\ccsapp.jks" --ks-key-alias appccs --out "C:\servidorweb\htdocs\app\platforms\android\app\build\outputs\apk\release\app.apk" "C:\servidorweb\htdocs\app\platforms\android\app\build\outputs\apk\release\app-alined.apk"
+adb install app.apk
+adb logcat | grep -i "console"
+clink set history_io 1
+powercfg.exe /h on
+xcopy /E /I /C "\\192.168.4.36\htdocs\app" "C:\servidorweb\htdocs\app"
+xcopy /E /I /C "\\192.168.4.36\htdocs\barras" "C:\servidorweb\htdocs\barras"
+xcopy /E /I /C "\\192.168.4.36\htdocs\codice" "C:\servidorweb\htdocs\codice"
+xcopy /E /I /C "\\192.168.4.36\htdocs\eventos" "C:\servidorweb\htdocs\eventos"
+xcopy /E /I /C "\\192.168.4.36\htdocs\focos" "C:\servidorweb\htdocs\focos"
+xcopy /E /I /C "\\192.168.4.36\htdocs\ccs-app" "C:\servidorweb\htdocs\ccs-app"
+xcopy /E /I /C "\\192.168.4.36\htdocs" "C:\servidorweb\htdocs"
+ping 8.8.8.8
+ping 8.8.8.8 -t
+git
+git pull --force
+git ls-files -u
+git log --pretty=format:"%h %s" --graph
+httpd.exe
+cd C:\servidorweb\mysql\bin
+mysqld.exe --install
+mysqld.exe
+ls
+apache.exe stop
+httpd.exe stop
+httpd.exe -k stop
+httpd.exe -k start
+cd C:\servidorweb\apache\bin
+httpd.exe -k install
+git clone http://qaccs:81/gestoreventos.git
+npm
+npm -v
+npm install -g cordova
+git clone http://qaccs:81/ccsapp.git
+bower i
+npm run postinstall
+npm i -g bower gulp
+gulp -v
+npm install gulp
+gulp build
+gulp watch --no-open --env=prod
+npm prepare
+npm i -g cordova
+npm i cordova@6.3.0
+cordova plugin ls
+cordova platform ls
+npm prepare android
+cordova prepare android
+cordova prepare
+gulp build --env=prod
+cordova run android --env=prod
+bower search bootstrap
+bower search jquery
+bower info jQuery
+---------------------------------------------------------------------------
+php -v
+composer about
+composer config --list
+composer search monolog
+composer show vendor/package
+composer status -v
+composer config --list
+composer create-project laravel/laravel gestoreventos
+composer status -v
+composer create-project laravel/laravel gestoreventos
+curl -sS https://getcomposer.org/installer | php
+php composer.phar install
+composer --version
+composer create-project laravel/laravel pruebita --prefer-dist
+composer global require laravel/installer
+laravel -V
+laravel new gestoreventos
+ng new gestoreventos --inline-template --inline-style --skipGit=true --skipTests=true --defaults=true
+php artisan serve
+cd gestoreventos\
+---------------------------------------------------------------------------
+composer create-project CodeIgniter/framework gestoreventos
+cd gestoreventos
+composer require firebase/php-jwt
+git init
+git pull -k
+ng generate --help
+ng g s servicios/menu --module=app.module
+npm install -g @angular/cli@latest --save-pro
+ng g s servicios/user --module=app.module
+ng g s servicios/user
+ng config -g cli.warnings.versionMismatch false
+ng --version
+ng new gestor  --skipTests=true --defaults=true --routing true
+cd gestor\
+ng g c paginas
+ng g c layout/navbar
+ng g c layout/menu --routing true
+ng g c layout/menu
+ng g c paginas/logueo
+npm install --save hammerjs
+npm i firebase@angular/fire --save
+npm i firebase @angular/fire --save
+npm i @fortawesome/angular-fontawesome
+npm i bootstrap
+npm i @fortawesome/fontawesome-free
+npm install ngx-pagination
+ng g s servicios/login --module=app.module
+npm install bootstrap
+php -S localhost:3001
+ng g s servicios/salesforce
+ng build
+cd C:\servidorweb\htdocs
+git clone http://qaccs:81/intranet.git
+ng g m paginas/pagos --routing true
+ng g s servicios/pagos
+composer help install
+composer update
+ng new angular7-app
+cd angular7-app
+npm install @syncfusion/ej2-angular-filemanager --save
+npm install @syncfusion/ej2 --save
+git clone https://github.com/jkuri/angular2-rollup-starter.git --depth 1
+npm run roll
+git clone https://github.com/joni2back/angular-filemanager.git
+gulp build
+git clone https://github.com/sazer7811/angular-file-explorer-64sqmp.git
+git clone https://github.com/AnnotationSro/ng6-file-man.git
+npm install ng6-file-man
+git clone https://gitlab.com/node-file-manager/node-fm-client.git
+npm audit fix
+ng -v
+cd "c:/servidorweb/htdocs/cargueruc"
+ng new app  --skipTests=true --defaults=true --routing true
+cd app
+npm start
+rm app
+ng new web  --skipTests=true --defaults=true --routing true
+npm install -g @angular/cli
+ng new appweb  --skipTests=true --defaults=true --routing true
+ng new appweb  --skipTests=true --routing true
+ng help
+ng new appweb  -S true --routing true --style SCSS -f
+ng n --help
+ng n appweb  -S true --routing true --style scss -f
+cd appweb
+ng g c paginas/login
+ng g c paginas/main
+ng g c --help
+npm i --save @angular/material @angular/cdk @angular/animations
+npm install ng2-slim-loading-bar --save
+npm install rxjs-compat --save
+npm install --save @ng-bootstrap/ng-bootstrap
+ng g m paginas --routing true
+ng g c paginas/
+mkdir assets\css
+ng s -o
+ng g m servicios/servicios
+ng g s servicios/usuarioe --module=servicios.module
+ng g s servicios/usuario
+ng s
+npm install sweetalert2 --save
+npm install @ngrx/store --save
+npm install @ngrx/store-devtools --save
+npm i -g -s @angular/common/http
+npm i -g --save @angular/common/http
+cd webapp
+ng n angular8
+ng g s consulta
+chunk {styles} styles.js, styles.js.map (styles) 10.1 kB [initial] [rendered]
+npm cache clean or npm cache clean --force
+npm set audit false
+npm uninstall -g @angular-cli
+npm install -g @angular/cli@6
+ng n webapp
+ng n webapp  -S true --routing true --style scss -f
+npm init -y
+npm install @angular/cli@6
+cd webapp\
+ng i
+npm install
+npm view @angular/cli
+npm view @angular/cli@7
+npm view @angular/cli@7.3.9
+npm install @angular/cli@7.3.9
+npm cache clean --force
+npm install @angular/cli@7.3.9 -g
+ng serve
+ng g s servicios/consulta
+ng g c paginas/cargue
+npm view @ng-bootstrap/ng-bootstrap
+npm i @ng-bootstrap/ng-bootstrap@4 --save
+npm i @ng-bootstrap/ng-bootstrap@3 --save
+ng v
+npm uninstall @ng-bootstrap/ng-bootstrap@3
+npm i @ng-bootstrap/ng-bootstrap@5 --save
+npm install bootstrap@4.3.1 --save
+npm install --save @angular/material @angular/cdk @angular/animations
+ng g s servicios/loader
+ng g c paginas/loader
+composer -V
+composer install
+composer remove mikey179/vfsstream
+composer require --dev mikey179/vfsstream
+composer require phpoffice/phpspreadsheet --dev
+mkdir C:\usr\local\ssl/
+mkdir "C:\usr\local\ssl"
+composer config
+composer config --global cafile 'C:\usr\local\ssl\cert.pem'
+composer config --global cafile C:\usr\local\ssl\cert.pem
+php -r "print_r(openssl_get_cert_locations());"
+composer require phpoffice/phpspreadsheet
+npm install -g jshint
+npm i sweetalert2 --save
+git remote add origin http://qaccs:81/ssologin.git
+git rebase --interactive 848aec445a2462300584197d8ac424ff0d7699b6
+git branch
+git merge
+git merge master
+git merge origin/master
+git rebase master
+git rebase master -fr
+git rebase master --skip
+git rebase master --no-ff
+git rebase origin/master --no-ff
+ping 192.168.4.13
+ping consejo.col
+ng s -o --prod
+ng s --no-open --pro
+ng s --no-open --prod
+ng g c paginas/plantillas
+ng g c paginas/seguimientos
+ipconfig
+cd "c:\servidorweb\htdocs\eventos\application\views\clients"
+ng g c paginas/noconformidades
+hostname
+ng g c paginas/consultas
+ng g c paginas/consultaruc
+flutter doctor --android-licenses
+flutter doctor
+fluteer --version
+flutter --version
+ng g c paginas/consultacrm
+ng g m paginas/consultacrm --routing true
+ng g m paginas/masivocrm --routing true
+ng g c paginas/carguemasivo
+ng g c paginas/carguemasivo --help
+ng g c paginas/carguemasivo --module=masivocrm.module
+ionic start pushapp blank
+ionic cordova plugin add onesignal-cordova-plugin
+npm install @ionic-native/onesignal
+ionic g s services/push --dry-run
+ionic g s services/push --dry-run  --spec false
+ionic g s services/push --dry-run --skipTests
+npx ng g --help component
+ionic g s services/push -d --nospec
+ionic g s services/push --nospec
+npm i -g native-run
+adb forward tcp:6000 tcp:6000
+ionic serve
+cd "c:\servidorweb\htdocs\apps\pushapp\src\app"
+cmd
+ionic g s services/push --dry-run --nospec
+ls -la
+ionic start app_ccs blank --nospec
+ionic g page paginas/inicio --dry-run
+ionic g page paginas/inicio  --nospec
+mvn -U clean install
+mvn install
+\dataquim.servicio-effective-pom.xml
+ionic g page paginas/login --dry-run
+ionic serve
+cd
+cd..
+git clone http://qaccs:81/redhidrocarburos_pro.git
+ionic g c components/header --dry-run --nospec
+ionic g c components/header  --nospec
+ionic g c components/header --dry-run --spec=false
+ionic g module components --dry-run
+ionic serve --noopen
+ionic g module components
+ionic g component components/header --dry-run --spec=false
+ionic g c components/header  --spec=false
+ionic g component components/menu --dry-run
+ionic g component components/menu --dry-run --spec=false --help
+ionic g component  -d --help
+ionic g component --help
+ionic g module --help
+npx ng g m --help
+npx ng g --help
+ionic g component components/menuy --dry-run --spec=false --export
+ionic g component components/menuy --export
+npx ng g component --help
+ionic g component components/menu --dry-run --spec=false
+ionic g component components/menu --spec=false
+ionic g component components/footer --dry-run --spec=false
+ionic g component components/footer --spec=false --dry-run
+ionic g component components/footer --spec=false
+ionic g s servicios/menu --spec=false -d
+ionic g s servicios/menu skipTests -d
+ionic g s servicios/menu --skipTests -d
+ionic g s servicios/menu --nospec -d
+ionic g s servicios/menu --skipTests
+ionic build --prod
+ionic g c components/loader --nospec -d
+ionic g c components/loader --nospec
+ionic g c components/loadere --nospec -d
+ionic g page paginas/patrocinadores --nospec -d --project --projects
+ionic g page paginas/patrocinadores --nospec -d --project projects
+ionic g page paginas/patrocinadores --nospec -d --project app
+ionic g page paginas/patrocinadores --nospec -d --project app --skip-import=true
+ionic g page paginas/patrocinadores --nospec -d --project app --styleext=false
+ionic g page paginas/patrocinadores --nospec -d --project app --skip-import
+ionic g page paginas/patrocinadores --nospec -d --project app --skip-import false
+ionic g page paginas/patrocinadores -d --defaults
+ionic g page paginas/patrocinadores -d --defaults --no-module
+ionic update
+ionic repair
+----------------------------------------------
+ionic g page paginas/login --nospec -d
+ionic g page paginas/login --nospec
+ionic g page paginas/patrocinadores --nospec -d
+ionic g page paginas/patrocinadores --nospec
+npx ng g page --help
+ionic g page paginas/agenda --nospec
+ionic g page paginas/feria --nospec
+ionic g page paginas/notas --nospec
+ionic g page paginas/politicas --nospec
+ionic g page paginas/mapaferia --nospec
+ionic g page paginas/conferencistas --nospec
+ionic g page paginas/noticias --nospec
+ionic g page paginas/videos --nospec
+npm install firebase-admin --save -g
+npm i -g -s firebase @angular/fire
+npm i -s firebase @angular/fire
+ionic g s servicios/patrocinadores --skipTests -d
+ionic g s servicios/patrocinadores --skipTests
+npm i -g firebase-tools
+firebase -v
+firebase --version
+ionic g s servicios/getdata --skipTests
+ionic g s servicios/conferencistas --skipTests
+cd "c:\servidorweb\htdocs\apps\app_ccs\src\app\servicios"
+ionic g s servicios/expositores --skipTests
+ionic g s servicios/noticias --skipTests
+ionic cordova run android --verbose
+pwd -p
+ionic s --no-open --port 7500
+gulp watch --open=false
+gulp watch -o
+ionic cordova run android -l
+ionic g s servicios/politicas --skipTests
+ionic cordova run android
+cd C:\servidorweb\htdocs\apps\app
+gulp watch --no-open
+ionic s --no-open
+ionic g s servicios/loader --skipTests -d
+ionic g s servicios/loader --skipTests
+npm i -g ionic
+ng g g interceptors/authInterceptors --skipTests -d
+ng g g interceptors/authinterceptors --skipTests -d
+ng g g interceptors/authinterceptors --skipTests
+ng g g guards/auth/auth --skipTests -d
+ng g g guards/auth/auth --skipTests
+ionic g s servicios/agenda --skipTests -d
+ionic g s servicios/agenda --skipTests
+ng n webapp  -S true --routing true
+adb
+ng g s servicios/menu --skipTests -d
+ng g s servicios/menu
+ng g s servicios/pagos --skipTests -d
+ng g s servicios/pagos
+adb devices
+adb reboot fastboot
+netsh wlan show profile
+netsh wlan show profile name=Javier key=clear
+netsh wlan show profile name=CCS-PRIVADO key=clear
+adb reboot bootloader
+fastboot flashing unlock
+fastboot.exe reboot
+ng g c paginas/pagos  --skipTests -d --skip-import
+ng g c paginas/pagos --skip-import
+ng g c paginas/logs  --skipTests -d --skip-import
+ng g c paginas/logs --skip-import
+ng g s servicios/logs --skipTests -d
+ng g s servicios/logs
+ng g s servicios/transacciones
+ng g c paginas/transacciones --skip-import
+ng g c paginas/confirmacion  --skipTests -d --skip-import
+ng g c paginas/confirmacion  --skipTests --skip-import
+ng g s servicios/confirmacion
+ng g m paginas/pagosruc --routing true
+ng g c paginas/homeruc  --skipTests --skip-import -d
+ng g c paginas/homeruc  --skipTests --skip-import
+ng g s servicios/pagosruc --skipTests -d
+ng g s servicios/pagosruc --skipTests
+ng g c paginas/listdocruc  --skipTests --skip-import
+ng g c paginas/documentos  --skipTests --skip-import -d
+ng g c paginas/documentos  --skipTests --skip-import
+ng g c paginas/documentosruc  --skipTests --skip-import
+ipconfig /flushdns
+git push -u Gitlab --tags
+git push -u gitlab
+git push -u gitlab --tags
+git push -u gitlab
+git push -u origin --all
+git clone http://qaccs:81/Plantilla_Angular_LITE.git ngplantilla
+dir %JAVA_HOME%
+cd  %JAVA_HOME%
+cd todo-en-uno\
+run.bat
+mvn install alfresco:run
+cd gd
+run.bat start
+cd alfresco\
+mvn archetype:generate "-Dfilter=org.alfresco:"
+cd all-in-one\
+composer -v
+composer global require "laravel/installer"
+composer self-update
+run.bat build
+java -version
+javac -version
+git remote add gitlab https://192.168.30.13/dev/gestoreventos.git
+git push -u gitlab --all
+docker-compose --version
+cd docker-compose\
+docker-compose down && docker-compose build --no-cache && docker-compose up
+cd C:\servidorweb\htdocs\alfresco\acs-community-deployment\docker-compose
+docker-compose up
+mvn archetype:generate -Dfilter=org.alfresco:
+cd maven-sdk-tutorial\
+mvn -v
+run.bat build_start
+run.sh stop
+cd C:\servidorweb\htdocs\alfresco\maven-sdk-tutorial
+run stop
+npm install js-sha256
+ng g c paginas/main --skipTests --skip-import
+ng g c paginas/nopagefound --skipTests --skip-import
+ng g c paginas/progress --skipTests --skip-import -is -d
+ng g c shared/header --skipTests --skip-import -is
+ng g c shared/sidebar --skipTests --skip-import -is
+ng g c shared/breadcrumbs --skipTests --skip-import -is
+ng s
+npm update -g @angular/cli
+cd ..
+ng new --help
+ng new angularbase -S -d
+ng new angularbase -S true --routing true --style scss -f
+ng init
+rm -rf node_modules
+npm i -D @angular-devkit/core
+npm update @angular/cli
+npm i @angular/cli
+ng g c paginas/main --skipTests --skip-import -d
+ng g c paginas/main -d
+ng g c paginas/main -is -d
+ng g c paginas/main -is
+ng g c shared/header -is -d
+ng g c shared/header -is
+ng g c shared/sidebar -is
+ng g c shared/breadcrumbs -is
+ng g c shared/nopagefound -is
+ng g m --help
+ng g m shared/shared --flat
+ng g s servicios/login -d
+ng g s servicios/login
+ng g g guards/auth/auth -d
+ng g g guards/auth/auth
+ng g g interceptors/authinterceptors -d
+ng g c login -d
+ng g c login
+ng g m paginas/paginas --flat
+npm i -s @angular/common/http
+npm install js-sha256 -s
+npm i sweetalert2 -s
+ng g g interceptors/authinterceptors --flat
+ng g c paginas/paginas --flat -d
+ng g c paginas/paginas --flat
+ng g c paginas/temapagina -is -d
+ng g c paginas/temapagina -is
+ng g s servicios/settings -d
+ng g s servicios/settings
+ng g c paginas/consultacrm -is -d
+ng g c paginas/consultacrm -is
+ng g s servicios/cargue -d
+ng g s servicios/cargue
+ng g s servicios/descargas
+npm i @ng-bootstrap/ng-bootstrap@5 --save
+npm install bootstrap@4 -g -s
+npm uninstall bootstrap@4 -s
+npm install bootstrap@4.3.1 -s
+npm uninstall bootstrap@4.3.1
+npm install bootstrap@4 -s
+ng update
+npm update -g @angular/cli @angular/core rxjs -s
+npm update --all
+npm update  @angular/cli
+npm uninstall  @angular/cli
+npm install  @angular/cli -s
+npm update
+ng update --next
+ng update @angular/cli @angular/core --next
+ng update @angular/cli @angular/core --next --allow-dirty
+ng update @angular/cli @angular/core --allow-dirty
+ng update @angular/cli @angular/core --allow-dirty -f
+ng update @angular/core --from 7 --to 8 --migrate-only
+ng update @angular/cli --from 7 --to 8 --migrate-only
+npm uninstall -g angular-cli
+npm install -g @angular/cli@8
+npm cache verify
+npm cache clean
+ng update @angular/core
+ng update rxjs
+ng version
+npm install --save @angular/material @angular/cdk
+npm i
+cls
+ng g m paginas/masivocrm --routing true --flat
+ng g c paginas/carguemasivo --module=masivocrm.module --flat -is
+ng g c paginas/carguemasivo --module=masivocrm.module  -is
+ng g c paginas/plantillas  -is
+ng s --no-open --port 4300
+ng g s servicios/masivo --module=servicios.module
+ng g s servicios/masivo
+ng g c paginas/consultas -is -d
+ng g c paginas/consultas -is
+ng g s servicios/main
+ng g c paginas/cargue -is
+ng g c paginas/seguimientos -is
+ng g c paginas/noconformidades -is
+ng build --prod
+ng s --no-open --port=4300
+ng s --no-open
+ng build --prod --base-href ./ --deploy-url ./ --output-path ./www/
