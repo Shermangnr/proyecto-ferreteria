@@ -65,7 +65,7 @@
                             <?php foreach ($cargos as $cargo): ?>
                                 <option value="<?php echo $cargo->id ?>" <?php echo($cargo->id == $usuario->id_cargo)? 'selected' : '';?>><?php echo $cargo->nombre ?></option>
                                 <?php endforeach; ?>                             
-                        </select>                        
+                        </select>
                     </div>
                 </div>
 

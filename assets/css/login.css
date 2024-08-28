@@ -32,3 +32,8 @@ body {
     margin-bottom: 7px;
     display: flex;
 }
+
+div:where(.swal2-container).swal2-center>.swal2-popup {
+    width: 400px;
+    height: 350px;
+}

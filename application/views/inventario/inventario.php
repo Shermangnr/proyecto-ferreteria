@@ -41,12 +41,12 @@
 
                             <button data-id="<?php echo $material->id ?>" type="button"
                                 class="boton-editar btn btn-primary" data-bs-toggle="tooltip" data-bs-placement="top"
-                                title="Editar usuario">
+                                title="Editar material">
                                 <i class="bi bi-pencil-square"></i>
                             </button>
                             <button data-id="<?php echo $material->id ?>" type="button"
-                                class="boton-eliminar btn btn-danger" data-bs-toggle="tooltip" data-bs-placement="top"
-                                title="Eliminar usuario">
+                                class="boton-eliminar-material btn btn-danger" data-bs-toggle="tooltip" data-bs-placement="top"
+                                title="Eliminar material">
                                 <i class="bi bi-trash"></i>
                             </button>
                         </div>
@@ -247,5 +247,75 @@ $(document).ready(function() {
             }
         })
     })
+})
+</script>
+
+<!-- Funcion para eliminar material -->
+ <script>
+    const swalWithBootstrapButtons = Swal.mixin({
+    customClass: {
+        confirmButton: "btn btn-success",
+        cancelButton: "btn btn-danger espacio"
+    },
+    buttonsStyling: false
+    });
+
+    const Toast = Swal.mixin({
+    toast: true,
+    position: "top-end",
+    showConfirmButton: false,
+    timer: 3000,
+    timerProgressBar: true,
+    didOpen: (toast) => {
+        toast.addEventListener('mouseenter', Swal.stopTimer);
+        toast.addEventListener('mouseleave', Swal.resumeTimer);
+    }
+});
+
+    $(document).ready(function() {
+    $('.boton-eliminar-material').on('click', function() {
+        swalWithBootstrapButtons.fire({
+            title: "¿Estas seguro de eliminar este material?",
+            text: "Esta accion no se puede revertir!",
+            icon: "warning",
+            showCancelButton: true,
+            confirmButtonText: "Aceptar",
+            cancelButtonText: "Cancelar",
+            reverseButtons: true
+        }).then((result) => {
+            if (result.isConfirmed) {
+                let id = $(this).data('id')
+                $.post('<?php echo IP_SERVER; ?>home/eliminar_material', {
+                    id: id
+                }, function(data) {
+                    if (data.resp = 1) {
+                        Toast.fire({
+                            icon: "success",
+                            title: data.msg
+                        }).then(() => {
+                            location.reload();
+                        });
+                    } else {
+                        Swal.fire({
+                            icon: "error",
+                            title: "Oops...",
+                            text: "Something went wrong!",
+                            footer: '<a href="#">Why do I have this issue?</a>'
+                        });
+                    }
+                })
+            }
+            $('.boton-eliminar-material').tooltip('hide')
+        })
+    });
+
+})
+ </script>
+
+<!-- Funcion del tooltip -->
+<script>
+    var tooltipTriggerList = Array.prototype.slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+var tooltipList = tooltipTriggerList.map(function(tooltipTriggerEl) {
+    return new bootstrap.Tooltip(tooltipTriggerEl)
 })
 </script>

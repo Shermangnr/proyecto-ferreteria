@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="<?php echo IP_SERVER ?>assets/css/registro_usuarios.css">
     <link rel="stylesheet" href="<?php echo IP_SERVER ?>assets/css/listado_usuarios.css">
     <link rel="stylesheet" href="<?php echo IP_SERVER ?>assets/css/inventario.css">
+    <link rel="stylesheet" href="<?php echo IP_SERVER ?>assets/css/facturas.css">
     
     <!-- Fuentes -->
     <link href="https://fonts.googleapis.com" rel="preconnect">

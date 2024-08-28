@@ -51,5 +51,11 @@ class Materiales_model extends CI_Model {
         $this->db->update($this->table, $datos);
         return $this->db->affected_rows();
     }
+
+    public function eliminar_material ($id) {
+        $this->db->where('id', $id);
+        $this->db->delete($this->table);
+        return $this->db->affected_rows();
+    }
 }
 ?>

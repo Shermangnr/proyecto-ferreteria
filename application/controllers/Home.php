@@ -11,6 +11,7 @@ class Home extends CI_Controller {
         $this->load->model('Cargos_model');
         $this->load->model('Materiales_model');
         $this->load->library('session');
+        $this->load->model('Configuraciones_model');
 
         if (empty($this->session->datosusuario)) {
             redirect('login');
@@ -242,9 +243,33 @@ class Home extends CI_Controller {
         ]);
     }
 
+    public function eliminar_material () {
+        $id = $this->input->post('id');
+
+        $respuesta = $this->Materiales_model->eliminar_material($id);
+
+        $valor = 0;
+        $msg = '';
+
+        if($respuesta){
+            $valor = 1;
+            $msg = 'Material eliminado';
+        }else{
+            $msg = 'Error al eliminar';
+        }
+
+        $this->json([
+            'resp' => $valor,
+            'msg' => $msg
+        ]);
+    }
+
     public function facturas() {
+        $tipos_factura = $this->Configuraciones_model->obtener_tipo_factura(1);
         $this->vista('facturas/facturas', [
             'inicio' => 'facturas',
         ]);
     }
+
+
 }
