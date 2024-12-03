@@ -1,16 +1,19 @@
 body {
-    background-color: #ffffff;
-    background-image: url("../../assets/imagenes/login.svg");
-    background-size: 750px;
-    background-repeat: no-repeat;
-    background-position: top left;
+    background-color: antiquewhite;
+    max-width: 2200px;
+    margin: auto;
 }
 
 .div-exterior {
     display: flex;
     justify-content: end;
     align-items: center;
-    height: 100vh;    
+    height: 100vh;
+    background-color: #ffffff;
+    background-image: url("../../assets/imagenes/login.svg");
+    background-size: 750px;
+    background-repeat: no-repeat;
+    background-position: top left;
 }
 
 .tarjeta {
@@ -37,3 +40,10 @@ div:where(.swal2-container).swal2-center>.swal2-popup {
     width: 400px;
     height: 350px;
 }
+
+@media screen and (min-width: 1280px) and (max-width:1650px) {
+    .tarjeta {
+        background: red;
+    }
+}
+

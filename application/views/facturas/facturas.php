@@ -15,15 +15,17 @@
                 data-bs-parent="#accordionFlushExample">
                 <div class="accordion-body row">
 
-                    <div class="mb-2 col-lg-6">
-                        <label for="tipo_factura" class="form-label">Tipo de factura</label>
-                        <div>
-                            <select class="form-select" name="tipo_factura" id="tipo_factura">
+                <div class="mb-2 col-lg-6">
+                    <label for="tipo_factura" class="form-label">Tipo de factura</label>
+                    <div>
+                        <select class="form-select" name="tipo_factura" id="tipo_factura">
                             <option selected>Seleccione tipo de factura</option>
-                                <option value=""></option>
-                            </select>
-                        </div>
+                            <?php foreach ($configuraciones as $configuracion): ?>
+                                <option value="<?php echo $configuracion->id; ?>"><?php echo $configuracion->nombre; ?></option>
+                            <?php endforeach; ?>
+                        </select>
                     </div>
+                </div>
 
                     <div class="mb-2 col-lg-6">
                         <label for="cargar_factura" class="form-label">Cargar factura</label>

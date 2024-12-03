@@ -63,8 +63,8 @@
                         <option selected>Seleccione el cargo</option>
                             <?php foreach ($cargos as $cargo): ?>
                                 <option value="<?php echo $cargo->id ?>"><?php echo $cargo->nombre ?></option>
-                                <?php endforeach; ?>                             
-                        </select>                        
+                                <?php endforeach; ?>
+                        </select>
                     </div>
                 </div>
 

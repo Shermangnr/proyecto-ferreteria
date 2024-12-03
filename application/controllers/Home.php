@@ -268,8 +268,9 @@ class Home extends CI_Controller {
         $tipos_factura = $this->Configuraciones_model->obtener_tipo_factura(1);
         $this->vista('facturas/facturas', [
             'inicio' => 'facturas',
+            'configuraciones' => $tipos_factura, // Pasar el resultado a la vista
         ]);
-    }
+    }    
 
 
 }
