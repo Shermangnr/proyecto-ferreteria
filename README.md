@@ -1,2 +1,2 @@
-# frameworkcodeigniter
+# Proyecto Ferretería
 Proyecto de practica
